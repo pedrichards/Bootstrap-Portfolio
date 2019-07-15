@@ -50,6 +50,12 @@ h3 {
   font-size: 22px;
 }
 
+.externallink a:link { 
+  color: #4aaaa5;
+  text-decoration: none 
+}
+.externallink a:active {color: #4aaaa5;text-decoration: none}
+
 /* header */
 
 #masthead {
